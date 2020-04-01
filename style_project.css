@@ -1,0 +1,50 @@
+span.active {
+  width: auto;
+  height: auto;
+
+  background-color: green;
+  color: white;
+
+  border-radius: 5px;
+  font-size: 3vw
+}
+span.inactive {
+  width: auto;
+  height: auto;
+
+  background-color: gray;
+  color: white;
+
+  border-radius: 5px;
+  font-size: 3vw;
+  margin-right: 5px;
+}
+span.open_source {
+  width: auto;
+  height: auto;
+
+  background-color: blue;
+  color: white;
+
+  border-radius: 5px;
+  font-size: 3vw;
+  margin-right: 5px;
+}
+span.beta {
+  width: auto;
+  height: auto;
+
+  background-color: orange;
+  color:white;
+
+  border-radius: 5px;
+  font-size: 3vw;
+  margin-right: 5px;
+}
+span.contact {
+  font-size: 2vw;
+  color:white;
+}
+#bigMessage {
+  text-align: center;
+}
